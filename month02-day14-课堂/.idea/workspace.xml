@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7c417db-8aae-49aa-ab04-ff42690464b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hocTzNusMqWdEl6P2dBqkBOFLK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.chat_client">
+    <configuration name="chat_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02-day14-课堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chat_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chat_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month02-day14-课堂" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chat_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chat_client" />
+        <item itemvalue="Python.chat_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c417db-8aae-49aa-ab04-ff42690464b8" name="Default Changelist" comment="" />
+      <created>1600680896355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600680896355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="275" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600741630270">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600680952828" />
+    <state x="776" y="275" key="FileChooserDialogImpl/67.27.1853.923@67.27.1853.923" timestamp="1600741630270" />
+    <state width="1826" height="223" key="GridCell.Tab.0.bottom" timestamp="1600764720340">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1826" height="223" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1600764720340" />
+    <state width="1826" height="223" key="GridCell.Tab.0.center" timestamp="1600764720338">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1826" height="223" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1600764720338" />
+    <state width="1826" height="223" key="GridCell.Tab.0.left" timestamp="1600764720337">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1826" height="223" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1600764720337" />
+    <state width="1826" height="223" key="GridCell.Tab.0.right" timestamp="1600764720339">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1826" height="223" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1600764720339" />
+    <state x="475" y="164" key="SettingsEditor" timestamp="1600741600383">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="475" y="164" key="SettingsEditor/67.27.1853.923@67.27.1853.923" timestamp="1600741600383" />
+  </component>
+</project>
