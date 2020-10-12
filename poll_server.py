@@ -10,7 +10,7 @@ HOST = "0.0.0.0"
 PORT = 8889
 ADDR = (HOST,PORT)
 
-# 创建tcp套接字
+
 tcp_socket = socket()
 tcp_socket.bind(ADDR)
 tcp_socket.listen(5)
